@@ -24,3 +24,11 @@ var feet = 12;
 var inches = 42/feet;
 console.log("42 inches in Feets: " + inches);
 
+let length = 60 * 0.3048;
+let breadth = 40 * 0.3048;
+// 1 feet = 0.3048
+
+let area = length * breadth;
+console.log("Area of plot in Sq.m: " + area);
+console.log("Total area of 25 plots in Sq.m: " + 25*area);
+
