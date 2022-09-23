@@ -75,10 +75,8 @@ let h_Num = 6;
 var result  = 0;
 for( var i = 1; i <= h_Num; i++){
     harmonicNum = 1/i;
-   
     result = result + harmonicNum;
-    
-}
-console.log(result);
+    }
+    console.log(result);
 
 
