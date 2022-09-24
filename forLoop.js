@@ -6,6 +6,7 @@ for( var i = 1; i <= n; i++ ){
     console.log(i + " : " + result);
 }
 
+
 //pb:3 - checking that number is prime
 console.log("..............Checking given number is prime or not.................")
 var number = 5;
